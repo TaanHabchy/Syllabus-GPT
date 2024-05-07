@@ -1,0 +1,13 @@
+I. Limitations
+    A. Instructor
+        1. Does not know how to ignore first name:
+            e.g. regex will capture Dr. John for Dr. John Smith
+
+II. Schedule Making plan
+    A. Reads date then puts that into a array
+    B. reads assignment following it and puts that into an array
+
+III. Further Work
+    A. Need to find a way to include more college majors
+    B. If dates appear twice it messes up algorithm
+        1. Although in syllabi that doesn't really happen right?
